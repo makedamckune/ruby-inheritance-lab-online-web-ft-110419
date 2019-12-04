@@ -1,7 +1,10 @@
 class Student < Teacher
   
-  def initialize(KNOWLEDGE)
-    @kn
+  def initialize(knowledge)
+    @knowledge = []
+  end 
+  
+  def 
     
   
 
