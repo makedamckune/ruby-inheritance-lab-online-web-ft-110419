@@ -9,9 +9,6 @@ class Student < Teacher
   end 
   
   def knowledge
+    @knowledge
   end
-    
-    
-  
-
 end
